@@ -4,9 +4,15 @@ Use https://reactjs.org/docs/react-component.html#the-component-lifecycle and ht
 
 1.  Each component has several `lifecycle methods` that you can override to do what?
 
+    * To run code at particular times in the lifecycle process (i.e., components being born and then dying).
+
 2.  What are the 3 categories of lifecycle methods? (these are the headings from the first link)
 
+    * Mounting, Updating, Unmounting
+
 3.  What are the names of the 5 commonly used lifecycle methods? (these are in bold in the first link)
+
+    * `constructor`, `render`, `componentDidMount`, `componentDidUpdate`, `componentWillUnmount`
 
 ### Understand
 
